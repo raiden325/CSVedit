@@ -1,0 +1,11 @@
+C:\Users\raiden\Documents\Visual Studio 2019\Projects\CSV_Editor\bin\Debug\CSV_Editor.exe
+C:\Users\raiden\Documents\Visual Studio 2019\Projects\CSV_Editor\bin\Debug\CSV_Editor.pdb
+C:\Users\raiden\Documents\Visual Studio 2019\Projects\CSV_Editor\bin\Debug\CSV_Editor.xml
+C:\Users\raiden\Documents\Visual Studio 2019\Projects\CSV_Editor\obj\Debug\CSV_Editor.CSV_Editor.resources
+C:\Users\raiden\Documents\Visual Studio 2019\Projects\CSV_Editor\obj\Debug\CSV_Editor.Resources.resources
+C:\Users\raiden\Documents\Visual Studio 2019\Projects\CSV_Editor\obj\Debug\CSV_Editor.vbproj.GenerateResource.cache
+C:\Users\raiden\Documents\Visual Studio 2019\Projects\CSV_Editor\obj\Debug\CSV_Editor.vbproj.CoreCompileInputs.cache
+C:\Users\raiden\Documents\Visual Studio 2019\Projects\CSV_Editor\obj\Debug\CSV_Editor.exe
+C:\Users\raiden\Documents\Visual Studio 2019\Projects\CSV_Editor\obj\Debug\CSV_Editor.xml
+C:\Users\raiden\Documents\Visual Studio 2019\Projects\CSV_Editor\obj\Debug\CSV_Editor.pdb
+C:\Users\raiden\Documents\Visual Studio 2019\Projects\CSV_Editor\obj\Debug\CSV_Editor.SearchReplace.resources
